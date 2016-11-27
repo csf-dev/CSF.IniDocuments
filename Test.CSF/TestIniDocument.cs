@@ -28,7 +28,7 @@ using System;
 using NUnit.Framework;
 using CSF.IniDocuments;
 
-namespace Test.CSF.IO
+namespace Test.CSF.IniDocuments
 {
   [TestFixture]
   public class TestIniDocument
