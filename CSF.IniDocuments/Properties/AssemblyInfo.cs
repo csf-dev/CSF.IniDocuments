@@ -31,7 +31,6 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("CSF.IniDocuments")]
 [assembly: AssemblyDescription("Reader & writer for documents in the INI format")]
 [assembly: AssemblyCompany("CSF Software Limited")]
-[assembly: AssemblyProduct("CSF Software Utilities")]
 [assembly: AssemblyCopyright("CSF Software Limited")]
 
 #if DEBUG
@@ -40,5 +39,5 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyConfiguration("Release")]
 #endif
 
-[assembly: AssemblyVersion("5.0.0")]
+[assembly: AssemblyVersion("1.0.0")]
 
