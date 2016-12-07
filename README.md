@@ -10,8 +10,7 @@ You may then `Write` the document back to a file, stream or string using an
 appropriate method.
 
 ## Example
-Here is a simple usage example in pseudocode, it should be enough to get you
-going:
+Here is a simple usage example, it should be enough to get you going:
 
 ```csharp
 using CSF.IniDocuments;
