@@ -10,8 +10,7 @@ You may then `Write` the document back to a file, stream or string using an
 appropriate method.
 
 ## Example
-Here is a simple usage example in pseudocode, it should be enough to get you
-going:
+Here is a simple usage example, it should be enough to get you going:
 
 ```csharp
 using CSF.IniDocuments;
@@ -40,3 +39,19 @@ myIniFile.Sections.Remove("old");
 // Write the file to disk
 myIniFile.Write(@"C:\Path\To\NewFile.ini");
 ```
+## Open source license
+All source files within this project are released as open source software,
+under the terms of [the MIT license].
+
+[the MIT license]: http://opensource.org/licenses/MIT
+
+This software is distributed in the hope that it will be useful, but please
+remember that:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
