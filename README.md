@@ -1,3 +1,6 @@
+# Deprecated
+This codebase is no longer maintained and will not be updated in future. For reading and writing of INI files, please consider [this library](https://github.com/rickyah/ini-parser) instead.
+
 # INI document reader and writer
 This is a very simple API, exposing functionality for reading and writing INI
 documents (typically to & from files).
